@@ -21,6 +21,7 @@ def drop_columns(al_df):
     else:
         pass
     return al_df'''
+# I couldn't find a suitable solution to tackle the invalid dates but when I will be updating this code.
 
 
 def birth_date(al_df):
